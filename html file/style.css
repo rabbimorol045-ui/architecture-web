@@ -32,7 +32,7 @@
 
 .container {
     width: 1300px;
-    height: 570px;
+    height: 710px;
     background-color: rgba(255, 144, 14, 0.1);
 
 
@@ -99,6 +99,17 @@
     margin-top: 20px;
     color: #727272;
     text-align: center;
+
+
+}
+.banner-section .img-banner{
+    max-width: 60%;
+    margin: 0 240px;
+     
+     justify-content: center;
+    align-items: center;
+     padding: 20px;
+
 
 
 }
